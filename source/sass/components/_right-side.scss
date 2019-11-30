@@ -1,0 +1,147 @@
+.right-side {
+  display: block;
+  width: 42%;
+  min-height: 100%;
+  background-image: url("/img/cloud.png");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+
+.right-side__wrapper {
+  margin-left: 100px;
+  min-height: 100%;
+  border-left: 1px dashed #519dc7;
+}
+
+.right-side__container {
+  display: flex;
+  padding: 20px 0 23px 13px;
+}
+
+.right-side__image {
+  display: block;
+  margin-right: 15px;
+}
+
+.right-side__text {
+  font-family: $font-secondary;
+  font-size: 11px;
+  line-height: 14px;
+  margin: 6px 0 0 0;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.right-side__box {
+  display: flex;
+  margin-bottom: 17px;
+}
+
+.right-side__flex {
+  display: flex;
+  flex-direction: column;
+  margin: 0 46px 0 -59px;
+}
+
+.right-side__state-black {
+  font-family: $font-secondary;
+  font-size: 7px;
+  line-height: 8px;
+  margin: 0 0 0 16px;
+  text-transform: uppercase;
+}
+
+.right-side__name-black {
+  font-family: $font-main;
+  font-size: 22px;
+  line-height: 26px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 0;
+}
+
+.right-side__state {
+  font-family: $font-secondary;
+  font-size: 7px;
+  line-height: 8px;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.right-side__name {
+  font-family: $font-main;
+  font-size: 22px;
+  line-height: 26px;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin: 0;
+
+  &--intends {
+    margin-left: 13px;
+  }
+
+  &--extra-intends {
+    margin: 0 0 41px 26px;
+  }
+}
+
+.right-side__destination {
+  margin-left: 39px;
+}
+
+.right-side__flight-info {
+  margin: 0 0 20px -112px;
+  display: flex;
+}
+
+.right-side__order {
+  margin-right: 53px;
+}
+
+.right-side__flight {
+  margin-right: 16px;
+}
+
+.right-side__date {
+  margin-right: 15px;
+}
+
+.right-side__boarding-info {
+  display: flex;
+  margin: 0 0 50px 26px;
+}
+
+.right-side__gate {
+  margin-right: 15px;
+}
+
+.right-side__board-time {
+  margin-right: 41px;
+}
+
+.right-side__bottom-part {
+  display: flex;
+  margin: 0 0 0 -218px;
+}
+
+.right-side__ticket-number {
+  font-family: $font-main;
+  font-size: 22px;
+  font-weight: bold;
+  width: 185px;
+  line-height: 25px;
+  text-transform: uppercase;
+  margin: 0 60px 0 0;
+}
+
+.right-side__ticket-type {
+  font-family: $font-main;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 26px;
+  text-transform: uppercase;
+  margin: 0;
+  color: #ffffff;
+  padding-top: 23px;
+}

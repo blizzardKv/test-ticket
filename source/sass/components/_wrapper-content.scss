@@ -1,0 +1,177 @@
+.wrapper-content {
+  margin: 18px 0 0 82px;
+}
+
+.wrapper-content__name {
+  font-family: $font-secondary;
+  font-size: 14.3px;
+  line-height: 18px;
+  text-transform: uppercase;
+  margin: 0 0 9px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+}
+
+.wrapper-content__company-container {
+  display: flex;
+}
+
+.wrapper-content__made-by {
+  width: 44px;
+  min-height: 24px;
+  font-size: 10px;
+  line-height: 12px;
+  font-family: $font-secondary;
+  margin: 0 10px 0 0;
+  padding-top: 8px;
+  text-transform: uppercase;
+}
+
+.wrapper-content__company-logo {
+  background-image: url("/img/svg/logo-opposite-side.svg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width: 148px;
+  height: 37px;
+}
+
+.wrapper-content__section-date {
+  margin: -2px 0 10px 292px;
+}
+
+.wrapper-content__ticket-medium {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.wrapper-content__section-passenger {
+  width: 257px;
+  min-height: 85px;
+  margin-right: 36px;
+}
+
+.wrapper-content__section-flight {
+  margin-right: 12px;
+}
+
+.wrapper-content__section-class {
+  margin-right: 28px;
+}
+
+.wrapper-content__flex {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper-content__container {
+  display: flex;
+  width: 325px;
+  justify-content: space-between;
+  margin: 7px 0 17px 0;
+}
+
+.wrapper-content__box {
+  display: flex;
+  width: 325px;
+  justify-content: left;
+}
+
+.wrapper-content__class-name {
+  margin: 0;
+}
+
+.wrapper-content__date {
+  margin: 0;
+}
+
+.wrapper-content__ticket-bottom {
+  display: flex;
+}
+
+.wrapper-content__watermark {
+  margin-right: 32px;
+}
+
+.wrapper-content__heading {
+  font-family: $font-secondary;
+  font-size: 7px;
+  line-height: 8px;
+  text-transform: uppercase;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  &--passenger-intends {
+    margin-bottom: 7px;
+  }
+
+  &--align {
+    text-align: right;
+  }
+}
+
+.wrapper-content__state {
+  font-family: $font-main;
+  font-size: 22px;
+  line-height: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+
+  &--align {
+    text-align: right;
+  }
+}
+
+.wrapper-content__quality {
+  font-family: $font-main;
+  font-size: 24.2759px;
+  line-height: 28px;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: normal;
+}
+
+.wrapper-content__number {
+  margin: 0 0 10px 0;
+  font-family: $font-main;
+  font-size: 46.3448px;
+  line-height: 54px;
+  font-weight: bold;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wrapper-content__statement {
+  font-family: $font-secondary;
+  font-size: 20px;
+  line-height: 29px;
+  margin: 0 0 6px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wrapper-content__attention {
+  font-family: $font-secondary;
+  font-size: 15.5517px;
+  line-height: 17px;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.wrapper-content__section-order {
+  margin-left: 40px;
+}

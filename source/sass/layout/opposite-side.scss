@@ -1,0 +1,30 @@
+.opposite-side {
+  position: relative;
+  display: flex;
+  width: 1143px;
+  border-radius: 20px;
+  margin: 0 auto;
+  height: 480px;
+  background-image: none;
+  background-color: #ffffff;
+
+  &::before {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 42px;
+    top: 45.5%;
+    left: 0;
+    background-color: #e5e5e5;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 42px;
+    top: 45.5%;
+    right: 0;
+    background-color: #e5e5e5;
+  }
+}

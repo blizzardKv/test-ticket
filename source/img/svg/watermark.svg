@@ -1,0 +1,120 @@
+<svg width="62" height="211" viewBox="0 0 62 211" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="62" height="211" fill="white"/>
+  <rect width="62" height="211" fill="white"/>
+  <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="62" height="211">
+    <rect width="62" height="211" fill="white"/>
+  </mask>
+  <g mask="url(#mask0)">
+    <path d="M62 0H0V211H62V0Z" fill="white"/>
+    <path d="M4.95953 36.8799H-1.48047V43.3199H4.95953V36.8799Z" fill="black"/>
+    <path d="M4.95953 43.3203H-1.48047V49.7603H4.95953V43.3203Z" fill="black"/>
+    <path d="M4.95953 62.6396H-1.48047V69.0796H4.95953V62.6396Z" fill="black"/>
+    <path d="M4.95953 81.96H-1.48047V88.4H4.95953V81.96Z" fill="black"/>
+    <path d="M4.95953 94.8398H-1.48047V101.28H4.95953V94.8398Z" fill="black"/>
+    <path d="M4.95953 101.279H-1.48047V107.719H4.95953V101.279Z" fill="black"/>
+    <path d="M4.95953 120.601H-1.48047V127.041H4.95953V120.601Z" fill="black"/>
+    <path d="M4.95953 133.48H-1.48047V139.92H4.95953V133.48Z" fill="black"/>
+    <path d="M4.95953 139.92H-1.48047V146.36H4.95953V139.92Z" fill="black"/>
+    <path d="M4.95953 152.8H-1.48047V159.24H4.95953V152.8Z" fill="black"/>
+    <path d="M4.95953 159.24H-1.48047V165.68H4.95953V159.24Z" fill="black"/>
+    <path d="M11.4 24H4.95996V30.44H11.4V24Z" fill="black"/>
+    <path d="M11.4 30.4404H4.95996V36.8804H11.4V30.4404Z" fill="black"/>
+    <path d="M11.4 56.2002H4.95996V62.6402H11.4V56.2002Z" fill="black"/>
+    <path d="M11.4 81.96H4.95996V88.4H11.4V81.96Z" fill="black"/>
+    <path d="M11.4 88.3994H4.95996V94.8394H11.4V88.3994Z" fill="black"/>
+    <path d="M11.4 101.279H4.95996V107.719H11.4V101.279Z" fill="black"/>
+    <path d="M11.4 120.601H4.95996V127.041H11.4V120.601Z" fill="black"/>
+    <path d="M11.4 133.48H4.95996V139.92H11.4V133.48Z" fill="black"/>
+    <path d="M11.4 139.92H4.95996V146.36H11.4V139.92Z" fill="black"/>
+    <path d="M11.4 146.36H4.95996V152.8H11.4V146.36Z" fill="black"/>
+    <path d="M11.4 165.68H4.95996V172.12H11.4V165.68Z" fill="black"/>
+    <path d="M11.4 172.12H4.95996V178.56H11.4V172.12Z" fill="black"/>
+    <path d="M11.4 178.56H4.95996V185H11.4V178.56Z" fill="black"/>
+    <path d="M17.8394 24H11.3994V30.44H17.8394V24Z" fill="black"/>
+    <path d="M17.8394 62.6396H11.3994V69.0796H17.8394V62.6396Z" fill="black"/>
+    <path d="M17.8394 101.279H11.3994V107.719H17.8394V101.279Z" fill="black"/>
+    <path d="M17.8394 114.16H11.3994V120.6H17.8394V114.16Z" fill="black"/>
+    <path d="M17.8394 120.601H11.3994V127.041H17.8394V120.601Z" fill="black"/>
+    <path d="M17.8394 127.04H11.3994V133.48H17.8394V127.04Z" fill="black"/>
+    <path d="M17.8394 152.8H11.3994V159.24H17.8394V152.8Z" fill="black"/>
+    <path d="M17.8394 178.56H11.3994V185H17.8394V178.56Z" fill="black"/>
+    <path d="M24.2798 36.8799H17.8398V43.3199H24.2798V36.8799Z" fill="black"/>
+    <path d="M24.2798 43.3203H17.8398V49.7603H24.2798V43.3203Z" fill="black"/>
+    <path d="M24.2798 56.2002H17.8398V62.6402H24.2798V56.2002Z" fill="black"/>
+    <path d="M24.2798 69.0801H17.8398V75.5201H24.2798V69.0801Z" fill="black"/>
+    <path d="M24.2798 101.279H17.8398V107.719H24.2798V101.279Z" fill="black"/>
+    <path d="M24.2798 133.48H17.8398V139.92H24.2798V133.48Z" fill="black"/>
+    <path d="M24.2798 152.8H17.8398V159.24H24.2798V152.8Z" fill="black"/>
+    <path d="M24.2798 165.68H17.8398V172.12H24.2798V165.68Z" fill="black"/>
+    <path d="M30.7193 36.8799H24.2793V43.3199H30.7193V36.8799Z" fill="black"/>
+    <path d="M30.7193 62.6396H24.2793V69.0796H30.7193V62.6396Z" fill="black"/>
+    <path d="M30.7193 69.0801H24.2793V75.5201H30.7193V69.0801Z" fill="black"/>
+    <path d="M30.7193 94.8398H24.2793V101.28H30.7193V94.8398Z" fill="black"/>
+    <path d="M30.7193 120.601H24.2793V127.041H30.7193V120.601Z" fill="black"/>
+    <path d="M30.7193 139.92H24.2793V146.36H30.7193V139.92Z" fill="black"/>
+    <path d="M30.7193 146.36H24.2793V152.8H30.7193V146.36Z" fill="black"/>
+    <path d="M30.7193 159.24H24.2793V165.68H30.7193V159.24Z" fill="black"/>
+    <path d="M30.7193 165.68H24.2793V172.12H30.7193V165.68Z" fill="black"/>
+    <path d="M30.7193 178.56H24.2793V185H30.7193V178.56Z" fill="black"/>
+    <path d="M37.1607 30.4404H30.7207V36.8804H37.1607V30.4404Z" fill="black"/>
+    <path d="M37.1607 43.3203H30.7207V49.7603H37.1607V43.3203Z" fill="black"/>
+    <path d="M37.1607 49.7598H30.7207V56.1998H37.1607V49.7598Z" fill="black"/>
+    <path d="M37.1607 75.5195H30.7207V81.9595H37.1607V75.5195Z" fill="black"/>
+    <path d="M37.1607 107.721H30.7207V114.161H37.1607V107.721Z" fill="black"/>
+    <path d="M37.1607 114.16H30.7207V120.6H37.1607V114.16Z" fill="black"/>
+    <path d="M37.1607 133.48H30.7207V139.92H37.1607V133.48Z" fill="black"/>
+    <path d="M37.1607 159.24H30.7207V165.68H37.1607V159.24Z" fill="black"/>
+    <path d="M37.1607 165.68H30.7207V172.12H37.1607V165.68Z" fill="black"/>
+    <path d="M37.1607 172.12H30.7207V178.56H37.1607V172.12Z" fill="black"/>
+    <path d="M43.6002 36.8799H37.1602V43.3199H43.6002V36.8799Z" fill="black"/>
+    <path d="M43.6002 62.6396H37.1602V69.0796H43.6002V62.6396Z" fill="black"/>
+    <path d="M43.6002 75.5195H37.1602V81.9595H43.6002V75.5195Z" fill="black"/>
+    <path d="M43.6002 101.279H37.1602V107.719H43.6002V101.279Z" fill="black"/>
+    <path d="M43.6002 127.04H37.1602V133.48H43.6002V127.04Z" fill="black"/>
+    <path d="M43.6002 133.48H37.1602V139.92H43.6002V133.48Z" fill="black"/>
+    <path d="M43.6002 146.36H37.1602V152.8H43.6002V146.36Z" fill="black"/>
+    <path d="M43.6002 152.8H37.1602V159.24H43.6002V152.8Z" fill="black"/>
+    <path d="M43.6002 172.12H37.1602V178.56H43.6002V172.12Z" fill="black"/>
+    <path d="M50.0406 43.3203H43.6006V49.7603H50.0406V43.3203Z" fill="black"/>
+    <path d="M50.0406 49.7598H43.6006V56.1998H50.0406V49.7598Z" fill="black"/>
+    <path d="M50.0406 56.2002H43.6006V62.6402H50.0406V56.2002Z" fill="black"/>
+    <path d="M50.0406 88.3994H43.6006V94.8394H50.0406V88.3994Z" fill="black"/>
+    <path d="M50.0406 94.8398H43.6006V101.28H50.0406V94.8398Z" fill="black"/>
+    <path d="M50.0406 101.279H43.6006V107.719H50.0406V101.279Z" fill="black"/>
+    <path d="M50.0406 114.16H43.6006V120.6H50.0406V114.16Z" fill="black"/>
+    <path d="M50.0406 127.04H43.6006V133.48H50.0406V127.04Z" fill="black"/>
+    <path d="M50.0406 139.92H43.6006V146.36H50.0406V139.92Z" fill="black"/>
+    <path d="M50.0406 146.36H43.6006V152.8H50.0406V146.36Z" fill="black"/>
+    <path d="M50.0406 178.56H43.6006V185H50.0406V178.56Z" fill="black"/>
+    <path d="M56.48 24H50.04V30.44H56.48V24Z" fill="black"/>
+    <path d="M56.48 36.8799H50.04V43.3199H56.48V36.8799Z" fill="black"/>
+    <path d="M56.48 43.3203H50.04V49.7603H56.48V43.3203Z" fill="black"/>
+    <path d="M56.48 49.7598H50.04V56.1998H56.48V49.7598Z" fill="black"/>
+    <path d="M56.48 62.6396H50.04V69.0796H56.48V62.6396Z" fill="black"/>
+    <path d="M56.48 81.96H50.04V88.4H56.48V81.96Z" fill="black"/>
+    <path d="M56.48 120.601H50.04V127.041H56.48V120.601Z" fill="black"/>
+    <path d="M56.48 127.04H50.04V133.48H56.48V127.04Z" fill="black"/>
+    <path d="M56.48 133.48H50.04V139.92H56.48V133.48Z" fill="black"/>
+    <path d="M56.48 139.92H50.04V146.36H56.48V139.92Z" fill="black"/>
+    <path d="M56.48 146.36H50.04V152.8H56.48V146.36Z" fill="black"/>
+    <path d="M56.48 152.8H50.04V159.24H56.48V152.8Z" fill="black"/>
+    <path d="M56.48 165.68H50.04V172.12H56.48V165.68Z" fill="black"/>
+    <path d="M56.48 172.12H50.04V178.56H56.48V172.12Z" fill="black"/>
+    <path d="M56.48 178.56H50.04V185H56.48V178.56Z" fill="black"/>
+    <path d="M62.9205 120.601H56.4805V127.041H62.9205V120.601Z" fill="black"/>
+    <path d="M62.9205 127.04H56.4805V133.48H62.9205V127.04Z" fill="black"/>
+    <path d="M62.9205 152.8H56.4805V159.24H62.9205V152.8Z" fill="black"/>
+    <path d="M62.9205 159.24H56.4805V165.68H62.9205V159.24Z" fill="black"/>
+    <path d="M62.9205 165.68H56.4805V172.12H62.9205V165.68Z" fill="black"/>
+    <path d="M62.9205 172.12H56.4805V178.56H62.9205V172.12Z" fill="black"/>
+    <path d="M62.9205 178.56H56.4805V185H62.9205V178.56Z" fill="black"/>
+  </g>
+  <rect width="62" height="8" fill="black"/>
+  <rect y="11" width="62" height="4" fill="black"/>
+  <rect y="18" width="62" height="2" fill="black"/>
+  <rect y="209" width="62" height="2" fill="black"/>
+  <rect y="205" width="62" height="2" fill="black"/>
+  <rect y="201" width="62" height="2" fill="black"/>
+  <rect y="194" width="62" height="5" fill="black"/>
+  <rect y="189" width="62" height="3" fill="black"/>
+</svg>

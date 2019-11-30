@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ticket demo</title>
+  <link href="css/style.min.css" rel="stylesheet">
+  <link as="font" href="./fonts/MyriadPro-Regular.ttf" rel="preload">
+  <link as="font" href="./fonts/RobotoMono-Regular.ttf" rel="preload">
+</head>
+<body>
+<main class="page-main">
+  <h1 class="visually-hidden">Билет ZeroLab</h1>
+  <section class="ticket">
+    <div class="ticket__logo logo"></div>
+  </section>
+  <section class="opposite-side">
+    <div class="opposite-side__left-side left-side">
+      <p class="left-side__left-text">Just another text on the left side of the screen</p>
+      <div class="left-side__wrapper wrapper-content">
+        <p class="wrapper-content__name">BOARDING PASS/ посадочный талон</p>
+        <div class="wrapper-content__company-container">
+          <p class="wrapper-content__made-by">issued by Выдан</p>
+          <svg class="wrapper-content__company-logo" width="148" height="37"></svg>
+        </div>
+        <div class="wrapper-content__section-date">
+          <p class="wrapper-content__heading">Date of issue/дата выдачи</p>
+          <p class="wrapper-content__state">06may15</p>
+        </div>
+        <div class="wrapper-content__ticket-medium">
+          <div class="wrapper-content__section-passenger">
+            <p class="wrapper-content__heading wrapper-content__heading--passenger-intends">Name of passenger/фамилия
+              пассажира</p>
+            <p class="wrapper-content__state">Sardinov/Nikolay mr vienna omapie/vie moscow sherem/svo</p>
+          </div>
+          <div class="wrapper-content__flex">
+            <div class="wrapper-content__container">
+              <div class="wrapper-content__section-flying-info">
+                <p class="wrapper-content__heading">issagt_id</p>
+                <p class="wrapper-content__state">z73/vie</p>
+              </div>
+              <div class="wrapper-content__section-issue">
+                <p class="wrapper-content__heading">Place of issue/ место выдачи</p>
+                <p class="wrapper-content__state wrapper-content__state--align">Vienna</p>
+              </div>
+            </div>
+            <div class="wrapper-content__box">
+              <div class="wrapper-content__section-flight">
+                <p class="wrapper-content__heading">Carrier/flight/Перевозчик/рейс</p>
+                <p class="wrapper-content__state">SU 2353</p>
+              </div>
+              <div class="wrapper-content__section-class">
+                <p class="wrapper-content__heading">Class/класс</p>
+                <div class="wrapper-content__state class-state">
+                  <p class="wrapper-content__class-name">B</p>
+                  <p class="wrapper-content__date">06MAY</p>
+                </div>
+              </div>
+              <div class="wrapper-content__section-time">
+                <p class="wrapper-content__heading wrapper-content__heading--align">Time/время</p>
+                <p class="wrapper-content__state">18:10</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="wrapper-content__ticket-bottom">
+          <img class="wrapper-content__watermark" src="img/svg/watermark.svg" width="62" height="211" alt="Watermark">
+          <div class="wrapper-content__flex first-bottom-wrapper">
+            <p class="wrapper-content__quality">Gate</p>
+            <p class="wrapper-content__number">D29</p>
+            <p class="wrapper-content__statement">Have a nice trip!</p>
+            <p class="wrapper-content__attention">Gate closes <b>20 minutes</b> before departure</p>
+          </div>
+          <div class="wrapper-content__flex second-bottom-wrapper">
+            <p class="wrapper-content__quality">Boarding time</p>
+            <p class="wrapper-content__number">17:30</p>
+            <p class="wrapper-content__statement">Счастливого пути!</p>
+            <p class="wrapper-content__attention">Посадка заканчивается
+              <br><b>за 20 минут</b> до времени вылета</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="opposite-side__right-side right-side">
+      <div class="right-side__wrapper">
+        <div class="right-side__container">
+          <img class="right-side__image" src="img/svg/logo-opposite-side.svg" width="148" height="37" alt="Лого ZeroLab">
+          <p class="right-side__text">BOARDING PASS/ посадочный талон</p>
+        </div>
+        <div class="right-side__box">
+          <div class="right-side__flex">
+            <p class="right-side__state-black">Iso</p>
+            <p class="right-side__name-black">AT</p>
+          </div>
+          <div class="right-side__passenger">
+            <p class="right-side__state">Name of passenger/фамилия пассажира</p>
+            <p class="right-side__name">Sardinov/Nikolay mr</p>
+          </div>
+        </div>
+        <div class="right-side__destination">
+          <p class="right-side__state">From/от</p>
+          <p class="right-side__name">vienna omapie/vie
+            moscow sherem/svo</p>
+        </div>
+        <p class="right-side__name right-side__name--intends">Zerolab</p>
+        <p class="right-side__name right-side__name--extra-intends">Terminal: 1</p>
+        <div class="right-side__flight-info">
+          <div class="right-side__order">
+            <p class="right-side__state-black">pnr code/Код брони</p>
+            <p class="right-side__name-black">Nhlovn</p>
+          </div>
+          <div class="right-side__flight">
+            <p class="right-side__state">flight/№ рейса/class/ </p>
+            <p class="right-side__name">Su2353b</p>
+          </div>
+          <div class="right-side__date">
+            <p class="right-side__state">date/дата</p>
+            <p class="right-side__name">06may</p>
+          </div>
+          <div class="right-side__time">
+            <p class="right-side__state">Time/время</p>
+            <p class="right-side__name">18:10</p>
+          </div>
+        </div>
+        <div class="right-side__boarding-info">
+          <div class="right-side__gate">
+            <p class="right-side__state">Gate/вход</p>
+            <p class="right-side__name">D29</p>
+          </div>
+          <div class="right-side__board-time">
+            <p class="right-side__state">Board time/время посадки</p>
+            <p class="right-side__name">17:30</p>
+          </div>
+          <div class="right-side__seat">
+            <p class="right-side__state">Seat/место</p>
+            <p class="right-side__name">29d</p>
+          </div>
+        </div>
+        <div class="right-side__bottom-part">
+          <p class="right-side__ticket-number">Electronic tkt
+            555 2095681183</p>
+          <p class="right-side__ticket-type">z73/vie</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<script src="js/superclamp.js"></script>
+</body>

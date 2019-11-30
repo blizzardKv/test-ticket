@@ -1,0 +1,21 @@
+.left-side {
+  position: relative;
+  display: flex;
+  width: 77%;
+  min-height: 100%;
+}
+
+.left-side__left-text {
+  position: absolute;
+  display: block;
+  font-family: $font-secondary;
+  font-size: 12px;
+  line-height: 14px;
+  width: 320px;
+  min-height: 38px;
+  margin: 0;
+  top: 46%;
+  left: -13%;
+  transform: rotate(-90deg);
+  text-align: center;
+}
